@@ -1,4 +1,4 @@
-![Header](/images/githubBckgrnd.jpg)
+![Header](/images/backgroundimg.png)
 
 <h1 align="center">Hola! Andrew here</h1>
 <h1 align="center">Welcome to my Github Page :airplane:</h1>
@@ -70,17 +70,7 @@
 
 ## I watch anime and game too! You might find me on:
 
-<a href="https://github.com/andrewsegovia00" target="_blank" rel="noreferrer"> <img src="/images/demon-slayer.png" alt="demon-slayer-logo" /> </a>
-
-<a href="https://github.com/andrewsegovia00" target="_blank" rel="noreferrer"> <img src="/images/jjk.png" alt="jujitsu-kaisenLogo" /> </a>
-
-<a href="https://github.com/andrewsegovia00" target="_blank" rel="noreferrer"> <img src="/images/naruto.png" alt="naruto-logo" /> </a>
-
-<a href="https://github.com/andrewsegovia00" target="_blank" rel="noreferrer"> <img src="/images/ninswitch.png" alt="nintendo-switch-logo" /> </a>
-
-<a href="https://github.com/andrewsegovia00" target="_blank" rel="noreferrer"> <img src="/images/ps5.png" alt="ps5-logo" /> </a>
-
-<a href="https://github.com/andrewsegovia00" target="_blank" rel="noreferrer"> <img src="/images/league.png" alt="league-of-legends-logo" /> </a>
+<a href="https://github.com/andrewsegovia00" target="_blank" rel="noreferrer"> <img src="/images/demon-slayer.png" alt="demon-slayer-logo" /> </a><a href="https://github.com/andrewsegovia00" target="_blank" rel="noreferrer"> <img src="/images/jjk.png" alt="jujitsu-kaisenLogo" /> </a><a href="https://github.com/andrewsegovia00" target="_blank" rel="noreferrer"> <img src="/images/naruto.png" alt="naruto-logo" /> </a><a href="https://github.com/andrewsegovia00" target="_blank" rel="noreferrer"> <img src="/images/ninswitch.png" alt="nintendo-switch-logo" /> </a><a href="https://github.com/andrewsegovia00" target="_blank" rel="noreferrer"> <img src="/images/ps5.png" alt="ps5-logo" /> </a><a href="https://github.com/andrewsegovia00" target="_blank" rel="noreferrer"> <img src="/images/league.png" alt="league-of-legends-logo" /> </a>
 
 </div>
 
