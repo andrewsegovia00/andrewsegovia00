@@ -66,6 +66,22 @@
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google cloud"/> </a>
 <br>
 <a href="https://www.hotjar.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white" alt="hotjar"/> </a><a href="https://analytics.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="google analytics"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" /> </a><a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" /> </a><a href="https://stripe.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" alt="stripe" /> </a>
+
+
+## I watch anime and game too! You might find me on:
+
+<a href="https://github.com/andrewsegovia00" target="_blank" rel="noreferrer"> <img src="/images/demon-slayer.png" alt="demon-slayer-logo" /> </a>
+
+<a href="https://github.com/andrewsegovia00" target="_blank" rel="noreferrer"> <img src="/images/jjk.png" alt="jujitsu-kaisenLogo" /> </a>
+
+<a href="https://github.com/andrewsegovia00" target="_blank" rel="noreferrer"> <img src="/images/naruto.png" alt="naruto-logo" /> </a>
+
+<a href="https://github.com/andrewsegovia00" target="_blank" rel="noreferrer"> <img src="/images/ninswitch.png" alt="nintendo-switch-logo" /> </a>
+
+<a href="https://github.com/andrewsegovia00" target="_blank" rel="noreferrer"> <img src="/images/ps5.png" alt="ps5-logo" /> </a>
+
+<a href="https://github.com/andrewsegovia00" target="_blank" rel="noreferrer"> <img src="/images/league.png" alt="league-of-legends-logo" /> </a>
+
 </div>
 
 <!--
