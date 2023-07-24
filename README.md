@@ -1,7 +1,5 @@
 ![Header](/images/backgroundimg.png)
 
-# About Me:
-
 I'm a full-stack engineer with a background in PM and marketing. During my cross-functional collaborations with engineers and designers, I discovered my passion for logic-driven problem-solving. This experience lead me to transition into software engineering. Currently, I focus on building applications that simplify steps for technology-challenged users and target pain points in the market, delivering fast and effective products. With my business experience in the tech industry, I'm determined to bring marketable features to users, connecting them with technology. My goal is to leave a positive impact by solving user's daily challenges and improving their quality of life. When I'm not coding, you'll find me recuperating my mental health at the gym, spending time with my cats, and learning new languages. Let's build together!
 
 <div align="center">
@@ -39,7 +37,7 @@ I'm a full-stack engineer with a background in PM and marketing. During my cross
 <h3 align="center">Send me a message or gain a new connection!</h3>
 <a href="mailto: andrew.segovia4@gmail.com" target="blank"> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Andrew's email"/></a> <a href="https://www.linkedin.com/in/andrewsegovia-dev/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/andrewsegovia-dev"/></a>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" /> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" /> </a>
