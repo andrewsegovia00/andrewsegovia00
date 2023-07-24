@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola, Andrew here</h1>
+<h1 align="center">Hola! Andrew here</h1>
 <h1 align="center">Welcome to my Github Page :airplane:</h1>
 <h3 align="center">I'm located in Los Angeles, California</h3>
 
