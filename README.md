@@ -14,8 +14,10 @@
 | 👨‍💻 All of my projects are available at [andrewsegovia00](https://github.com/andrewsegovia00?tab=repositories) | 💬 Ask me about **MERN and AI/LMs** | 
 |📫 How to reach me **andrew.segovia4@gmail.com** | ⚡ Fun fact **I have 14 cats!** |
 
+|Topics I'm learning right now: **[Django](https://www.djangoproject.com/) \| [Python](https://www.python.org/) \| [Flask](https://flask.palletsprojects.com/) \| [D3js](https://d3js.org/)** |
+|---|
+
 <div>&nbsp;<img height="140px" src="https://github-readme-stats.vercel.app/api?username=andrewsegovia00&&show_icons=true&theme=jolly&hide=contribs,stars&show=reviews"/> <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=andrewsegovia00&" alt="andrewsegovia00" /> <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewsegovia00&show_icons=true&locale=en&layout=compact" alt="andrewsegovia00" /></div>
-</div>
 
 ## My Latest Projects
 <div align="center" >
@@ -64,7 +66,7 @@
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google cloud"/> </a>
 <br>
 <a href="https://www.hotjar.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white" alt="hotjar"/> </a><a href="https://analytics.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="google analytics"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" /> </a><a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" /> </a><a href="https://stripe.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" alt="stripe" /> </a>
-
+</div>
 
 <!--
 **andrewsegovia00/andrewsegovia00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
