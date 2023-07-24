@@ -1,6 +1,8 @@
 ![Header](/images/backgroundimg.png)
 
-#### About Me:
+# About Me:
+
+I'm a full-stack engineer with a background in PM and marketing. During my cross-functional collaborations with engineers and designers, I discovered my passion for logic-driven problem-solving. This experience lead me to transition into software engineering. Currently, I focus on building applications that simplify steps for technology-challenged users and target pain points in the market, delivering fast and effective products. With my business experience in the tech industry, I'm determined to bring marketable features to users, connecting them with technology. My goal is to leave a positive impact by solving user's daily challenges and improving their quality of life. When I'm not coding, you'll find me recuperating my mental health at the gym, spending time with my cats, and learning new languages. Let's build together!
 
 <div align="center">
 
