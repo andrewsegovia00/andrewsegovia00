@@ -1,7 +1,6 @@
 ![Header](/images/backgroundimg.png)
 
-<h1 align="center">Hola! Andrew here</h1>
-<h1 align="center">Welcome to my Github Page :airplane:</h1>
+#### About Me:
 
 <div align="center">
 
