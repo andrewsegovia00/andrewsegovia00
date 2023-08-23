@@ -1,11 +1,15 @@
 ![Header](/images/backgroundimg.png)
+<div align="center">
+  
+I'm a full-stack engineer w/ a background in Product Management & marketing. During my cross-functional collaborations w/ engineers and designers, I discovered my passion for data and logic-driven problem-solving. Which is what got me interested in software development.
 
-I'm a full-stack engineer with a background in PM and marketing. During my cross-functional collaborations with engineers and designers, I discovered my passion for logic-driven problem-solving. This experience lead me to transition into software engineering. 
 
-Currently, I focus on building applications that simplify steps for technology-challenged users and target pain points in the market, delivering fast and effective products. With my business experience in the tech industry, I'm determined to bring marketable features to users, connecting them with technology. 
+Currently, I'm working on side projects focusing on the gamifying aspect of learning. My passion is finding ways to educate non-tech users w/ rewards and fun games to facilitate the learning material. My goal is to leave a positive impact by solving user's daily challenges and improving their quality of life. 
 
-My goal is to leave a positive impact by solving user's daily challenges and improving their quality of life. When I'm not coding, you'll find me recuperating my mental health at the gym, spending time with my cats, and learning new languages. Let's build together!
 
+When I'm not coding, you'll find me recuperating my mental health at the gym, spending time with my cats, and learning new languages. I'm excited to see what we can build together!
+
+</div>
 <div align="center">
 
 #### Profile Views: 
