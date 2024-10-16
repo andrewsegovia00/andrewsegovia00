@@ -28,16 +28,16 @@ When I'm not coding, you'll find me recuperating my mental health at the gym, sp
 
 ## My Latest Projects
 <div align="center" >
-  <a href="https://github.com/andrewsegovia00/ShopSimulator">
+  <a href="https://github.com/andrewsegovia00/ShopSimulator/blob/main/README.md">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewsegovia00&repo=ShopSimulator" alt="Readme Card | ShopSim!">
   </a>
-  <a href="https://github.com/andrewsegovia00/travelBud">
+  <a href="https://github.com/andrewsegovia00/travelBud/blob/main/README.md">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewsegovia00&repo=travelBud" alt="Readme Card | Travel Bud">
   </a>
-  <a href="https://github.com/andrewsegovia00/BattleshipGame">
+  <a href="https://github.com/andrewsegovia00/BattleshipGame/blob/main/README.md">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewsegovia00&repo=BattleshipGame" alt="Readme Card | Battle Ship">
   </a>
-  <a href="https://github.com/andrewsegovia00/EliteCraftTCG">
+  <a href="https://github.com/andrewsegovia00/EliteCraftTCG/blob/main/README.md">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewsegovia00&repo=EliteCraftTCG" alt="Readme Card | Card Game">
   </a>
 </div>
