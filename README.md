@@ -28,6 +28,9 @@ When I'm not coding, you'll find me recuperating my mental health at the gym, sp
 
 ## My Latest Projects
 <div align="center" >
+  <a href="https://github.com/andrewsegovia00/ecommerceShop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewsegovia00&repo=ShopSimulator" alt="Readme Card | GameOn!">
+  </a>
   <a href="https://github.com/andrewsegovia00/travelBud">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewsegovia00&repo=travelBud" alt="Readme Card | Travel Bud">
   </a>
@@ -35,10 +38,7 @@ When I'm not coding, you'll find me recuperating my mental health at the gym, sp
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewsegovia00&repo=BattleshipGame" alt="Readme Card | Battle Ship">
   </a>
   <a href="https://github.com/andrewsegovia00/News_API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewsegovia00&repo=News_API" alt="Readme Card | News API">
-  </a>
-  <a href="https://github.com/andrewsegovia00/ecommerceShop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewsegovia00&repo=ShopSimulator" alt="Readme Card | GameOn!">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewsegovia00&repo=java-firebase-demo" alt="Readme Card | News API">
   </a>
 </div>
 
