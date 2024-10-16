@@ -38,7 +38,7 @@ When I'm not coding, you'll find me recuperating my mental health at the gym, sp
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewsegovia00&repo=BattleshipGame" alt="Readme Card | Battle Ship">
   </a>
   <a href="https://github.com/andrewsegovia00/java-firebase-demo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewsegovia00&repo=java-firebase-demo" alt="Readme Card | News API">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewsegovia00&repo=java-firebase-demo" alt="Readme Card | Firebase Demo">
   </a>
 </div>
 
