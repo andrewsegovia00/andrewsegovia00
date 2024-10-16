@@ -17,8 +17,8 @@ When I'm not coding, you'll find me recuperating my mental health at the gym, sp
 
 | About | Me |
 |---|---|
-| 💻 Currently working on [Travel Bud](https://github.com/andrewsegovia00/travelTracker) | 🏙️ Located in Los Angeles, California |
-| 👨‍💻 All of my projects are available at [andrewsegovia00](https://github.com/andrewsegovia00?tab=repositories) | 💬 Ask me about **MERN and AI/LMs** | 
+| 💻 Currently working on [Cat/Shop Simulator](https://github.com/andrewsegovia00/ShopSimulator) | 🏙️ Located in Arizona |
+| 👨‍💻 All of my projects are available at [andrewsegovia00](https://github.com/andrewsegovia00?tab=repositories) | 💬 Ask me about **SpringBoot and AWS** | 
 |📫 How to reach me **andrew.segovia4@gmail.com** | ⚡ Fun fact **I have 14 cats!** |
 
 |Topics I'm learning right now: **[Django](https://www.djangoproject.com/) \| [Python](https://www.python.org/) \| [Flask](https://flask.palletsprojects.com/) \| [D3js](https://d3js.org/)** |
