@@ -38,7 +38,7 @@ When I'm not coding, you'll find me recuperating my mental health at the gym, sp
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewsegovia00&repo=News_API" alt="Readme Card | News API">
   </a>
   <a href="https://github.com/andrewsegovia00/ecommerceShop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewsegovia00&repo=ecommerceShop" alt="Readme Card | GameOn!">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewsegovia00&repo=ShopSimulator" alt="Readme Card | GameOn!">
   </a>
 </div>
 
