@@ -21,7 +21,7 @@ When I'm not coding, you'll find me recuperating my mental health at the gym, sp
 | 👨‍💻 All of my projects are available at [andrewsegovia00](https://github.com/andrewsegovia00?tab=repositories) | 💬 Ask me about **SpringBoot and AWS** | 
 |📫 How to reach me **andrew.segovia4@gmail.com** | ⚡ Fun fact **I have 14 cats!** |
 
-|Topics I'm learning right now: **[Django](https://www.djangoproject.com/) \| [Python](https://www.python.org/) \| [Flask](https://flask.palletsprojects.com/) \| [D3js](https://d3js.org/)** |
+|Topics I'm learning right now:  **[SpringBoot](https://spring.io/projects/spring-boot) \| [Firebase](https://firebase.google.com/) \| [AWS](https://aws.amazon.com/products/?nc2=h_ql_prod&aws-products-all.sort-by=item.additionalFields.productNameLowercase&aws-products-all.sort-order=asc&awsf.re%3AInvent=*all&awsf.Free%20Tier%20Type=*all&awsf.tech-category=*all) \| [React](https://react.dev/)** |
 |---|
 
 <div>&nbsp;<img height="140px" src="https://github-readme-stats.vercel.app/api?username=andrewsegovia00&&show_icons=true&theme=jolly&hide=contribs,stars&show=reviews"/> <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=andrewsegovia00&" alt="andrewsegovia00" /> <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewsegovia00&show_icons=true&locale=en&layout=compact" alt="andrewsegovia00" /></div>
