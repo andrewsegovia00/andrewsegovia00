@@ -29,7 +29,7 @@ When I'm not coding, you'll find me recuperating my mental health at the gym, sp
 ## My Latest Projects
 <div align="center" >
   <a href="https://github.com/andrewsegovia00/ecommerceShop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewsegovia00&repo=ShopSimulator" alt="Readme Card | GameOn!">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewsegovia00&repo=ShopSimulator" alt="Readme Card | ShopSim!">
   </a>
   <a href="https://github.com/andrewsegovia00/travelBud">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewsegovia00&repo=travelBud" alt="Readme Card | Travel Bud">
