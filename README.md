@@ -1,7 +1,7 @@
 ![Header](/images/backgroundimg.png)
 <div align="center">
   
-I'm a full-stack engineer w/ a background in Product Management & marketing. During my cross-functional collaborations w/ engineers and designers, I discovered my passion for data and logic-driven problem-solving. Which is what got me interested in software development.
+I'm a developer with a background in Analytics & Marketing. My formal education is in International Business BS from Pepperdine University. However my coding journey has undergone an evolution from self-taught to earning a Bootcamp Certification and Google Analytics Certificate.
 
 
 Currently, I'm working on side projects focusing on the gamifying aspect of learning. My passion is finding ways to educate non-tech users w/ rewards and fun games to facilitate the learning material. My goal is to leave a positive impact by solving user's daily challenges and improving their quality of life. 
